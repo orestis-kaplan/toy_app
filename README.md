@@ -1,24 +1,11 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Application to learn some basic concepts and conventions used by Rails to create web applications.
 
-Things you may want to cover:
+* Ruby version: 2.5.3
+* Rails version: 5.2.2
 
-* Ruby version
+## Contributors
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Efrain Pinto](https://github.com/efrapp)
+* [Orestis Kaplanis](https://github.com/userman95)
